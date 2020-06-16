@@ -1,0 +1,131 @@
+* {
+    margin:0;
+    padding: 0;
+    ;
+}
+
+/* Metal Mania fonts */
+@font-face{
+   font-family: 'metal-mania.regular';
+   src : url('metal-mania.regular.ttf') format('truetype');
+   font-weight: normal;
+ font-style: normal;
+
+
+} 
+
+
+section.mysection {
+   background: #f7f7f7;
+   padding:  50px 0px;
+}
+.section_title{
+    text-align :center;
+    font-family: 'metal-mania.regular';
+    font-weight: 800;
+    font-size:;
+    color: #768c84;
+    border-bottom: 1px solid #c4c7c7;
+    margin-bottom: 35px;
+    /* padding: 10px; */
+    margin-left: 20px;
+}
+
+
+.main {
+    width: 307px;
+    background: white;
+    margin: 10px;
+    padding: 20px;
+    padding: 18px 19px;
+    box-shadow: 2px 4px 9px 5px #d8d6d6;
+    text-align: center;
+    border-radius: 3px;
+}
+
+.logo.bgf_1 {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    line-height: 57px;
+    margin: auto;
+    background: #fbc400;
+    color: white;
+    font-size: 26px;
+    
+   
+    
+ 
+    margin-bottom: 3px;
+}
+
+.section_titlet.bg_1 h2 {
+    font-size: 27px;
+    margin-bottom: 21px;
+    font-family:'metal-mania.regular';
+    color: orange;
+   
+}
+
+
+.logo.bg_2 {
+    text-align: center;
+    border: 1px solid;
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    line-height: 56px;
+    margin: auto;
+    background: #6bde14;
+    color: white;
+    font-size: 28px;
+    font-weight:  900;
+    font-weight: bold;
+    margin-bottom:  3px;
+    }
+    .logo.bg_3 {
+        text-align: center;
+        border: 1px solid;
+        border-radius: 50%;
+        width: 60px;
+        height: 59px;
+        line-height: 55px;
+        margin: auto;
+        background: #07e4c6;
+        color: white;
+        font-size: 28px;
+         
+      
+        margin-bottom:  3px;
+    }
+
+
+
+    .section_titlet.bgf_2 {
+        
+       
+    font-family: 'metal-mania.regular';
+
+    }
+    
+    .section_titlet.bgf_3 h2 {
+        margin-bottom: 16px;
+        color: #07e4c6;
+        font-family:'metal-mania.regular';
+    }
+    
+    .section_titlet.bgf_2 h2 {
+        color:#6bde14;
+        margin-bottom: 15px;
+        font-family:'metal-mania.regular';
+    }
+
+
+
+    P{
+
+        font-family:'metal-mania.regular';
+         
+    }
